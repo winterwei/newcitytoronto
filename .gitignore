@@ -1,2 +1,4 @@
 week-2-project.sublime-project
 week-2-project.sublime-workspace
+node_modules
+.sass-cache
